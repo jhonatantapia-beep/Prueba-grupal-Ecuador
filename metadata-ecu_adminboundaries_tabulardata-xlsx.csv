@@ -1,0 +1,14 @@
+Field,Label,Value
+created,Created,2019-07-30T17:01:37.039221
+description,Description,"Ecuador administrative level 0 (country), 1 (province),  2 (canton) and 3 (parroquia) population statistics and level 2 (canton) gazetteer"
+format,File Format,XLSX
+download_url,Download URL,https://data.humdata.org/dataset/538a4523-8d2f-4875-b2c6-e7ba2b85fcd8/resource/a882d581-e78a-4a55-ab7f-1683dd847fc9/download/ecu_adminboundaries_tabulardata.xlsx
+id,Resource ID,a882d581-e78a-4a55-ab7f-1683dd847fc9
+last_modified,Updated,2023-04-04T19:26:19.556328
+metadata_modified,Metadata Updated,2025-04-08T15:34:45.025072
+microdata,Microdata,False
+dataset_id,Dataset ID,538a4523-8d2f-4875-b2c6-e7ba2b85fcd8
+resource_type,Resource Type,file.upload
+name,Resource Name,ECU_AdminBoundaries_TabularData.xlsx
+mimetype,MIME Type,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+size,Size,93.3K
